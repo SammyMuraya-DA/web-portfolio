@@ -63,7 +63,7 @@ const Hero = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-ds-light-blue/20 rounded-full blur-3xl opacity-50 animate-pulse"></div>
               <div className="relative w-64 h-64 md:w-80 md:h-80 bg-gradient-to-br from-accent to-ds-light-blue rounded-full overflow-hidden border-8 border-white shadow-lg">
                 <img
-                  src="public/images/sam.jpg"
+                  src="/images/sam.jpg"
                   alt="Sammy Muraya - Data Scientist"
                   className="w-full h-full object-cover"
                 />
