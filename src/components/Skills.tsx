@@ -70,7 +70,7 @@ const Skills = () => {
                 </div>
                 <div>
                   <h4 className="font-medium">B.S. in Business Information Systems</h4>
-                  <p className="text-foreground/70">Jaramogi Oginga Odinga University Of Science and Technology  | 2018 - 2017</p>
+                  <p className="text-foreground/70">Jaramogi Oginga Odinga University Of Science and Technology  | 2018 - 2022</p>
                 </div>
               </div>
               
