@@ -8,7 +8,7 @@ const technicalSkills = [
   { name: "SQL", level: 88 },
   { name: "TensorFlow / PyTorch", level: 82 },
   { name: "Deep Learning", level: 80 },
-  { name: "R", level: 75 },
+  { name: "R", level: 45 },
   { name: "Big Data (Spark)", level: 78 },
 ];
 
@@ -23,8 +23,7 @@ const tools = [
   "Docker",
   "Git",
   "AWS",
-  "Google Cloud",
-  "Kubernetes",
+  "Google Cloud",  
 ];
 
 const Skills = () => {
@@ -88,12 +87,12 @@ const Skills = () => {
                   <p className="text-foreground/70">Cybershujaa USIU program | 2024 Jan - 2024 Aug</p>
                 </div>
               </div>              
-              <div className="flex gap-4">
+{/*               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
                   <div className="w-3 h-3 rounded-full bg-accent"></div>
                 </div>
                 
-              </div>
+              </div> */}
               
               <div className="flex gap-4">
                 <div className="flex-shrink-0 mt-1">
