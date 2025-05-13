@@ -19,7 +19,7 @@ const projects = [
       "Created a clustering algorithm that identified 5 distinct customer segments, enabling targeted marketing campaigns that improved conversion rates by 23%.",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
     tags: ["Scikit-learn", "K-means", "Matplotlib", "SQL"],
-    link: "#",
+    link: "https://github.com/SammyMuraya-DA/web-portfolio",
   },
   {
     id: 3,
@@ -27,8 +27,8 @@ const projects = [
     description:
      " Using simulated telecom data, I built a logistic regression model to classify customer churn. The project involved performing exploratory data analysis (EDA) with visual tools such as box plots, histograms, and correlation heatmaps to uncover patterns and relationships in the dataset. The model achieved solid classification performance, demonstrating strong precision, recall, and accuracy. Additionally, I automated the entire workflow—from data preprocessing to model evaluation—ensuring reproducibility and efficiency in the analysis process.",
     image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
-    tags: ["BERT", "PyTorch", "NLP", "Hugging Face"],
-    link: "#",
+    tags: ["Python", "Seaborn", "Pandas", "Matplotlib", "Scikit-learn", "Jupyter Notebook"],
+    link: "https://github.com/SammyMuraya-DA/web-portfolio",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const projects = [
       "Implemented an anomaly detection system that identified fraudulent transactions with 95% precision, saving the client an estimated $2.3M annually.",
     image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=800&q=80",
     tags: ["Isolation Forest", "XGBoost", "Feature Engineering"],
-    link: "#",
+    link: "https://github.com/SammyMuraya-DA/web-portfolio",
   },
 ];
 
