@@ -23,9 +23,9 @@ const projects = [
   },
   {
     id: 3,
-    title: "Natural Language Processing for Support Tickets",
+    title: "Customer Churn Analysis",
     description:
-      "Built an NLP system that automatically categorizes customer support tickets with 87% accuracy, reducing response time by 35% and improving customer satisfaction.",
+     " Using simulated telecom data, I built a logistic regression model to classify customer churn. The project involved performing exploratory data analysis (EDA) with visual tools such as box plots, histograms, and correlation heatmaps to uncover patterns and relationships in the dataset. The model achieved solid classification performance, demonstrating strong precision, recall, and accuracy. Additionally, I automated the entire workflow—from data preprocessing to model evaluation—ensuring reproducibility and efficiency in the analysis process.",
     image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
     tags: ["BERT", "PyTorch", "NLP", "Hugging Face"],
     link: "#",
